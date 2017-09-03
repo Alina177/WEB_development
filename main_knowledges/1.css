@@ -1,0 +1,19 @@
+body{
+	width: 500px;
+	height: auto;
+
+	margin: 20px auto;
+
+	background: #203035;
+
+	color: #C7D5DA;
+	text-align: center;
+}
+.nature_img{
+	display: none;
+}
+.canvas{
+	background: #9ffbca;
+
+	border: 1px solid #333;
+}
